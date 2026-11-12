@@ -1,0 +1,7 @@
+dataset,seed,strategy,size,retrieval_modes,documents,queries,chunks,indexing_seconds,query_seconds
+nfcorpus,42,fixed,128,contextual_embedding,100,5,313,29.752437899998768,0.4075018000003183
+nfcorpus,42,fixed,256,contextual_embedding,100,5,183,28.064506200000324,0.3589231000005384
+nfcorpus,42,recursive,128,contextual_embedding,100,5,347,32.50612059999912,0.3747695999991265
+nfcorpus,42,recursive,256,contextual_embedding,100,5,186,29.638573500000348,0.32061529999919003
+nfcorpus,42,semantic,128,contextual_embedding,100,5,746,71.76976090000244,0.47679730000163545
+nfcorpus,42,semantic,256,contextual_embedding,100,5,691,104.48331260000123,0.5278518999984954

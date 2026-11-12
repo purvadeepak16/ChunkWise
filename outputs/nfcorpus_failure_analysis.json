@@ -1,0 +1,518 @@
+[
+  {
+    "dataset": "nfcorpus",
+    "seed": 42,
+    "query_id": "PLAIN-1161",
+    "query": "fava beans",
+    "gold_relevant_documents": [
+      "MED-4281"
+    ],
+    "strategy": "fixed",
+    "size": 128,
+    "retrieval_mode": "contextual_embedding",
+    "retrieved_top_10": [
+      "MED-2511",
+      "MED-3475",
+      "MED-3484",
+      "MED-2506",
+      "MED-4032",
+      "MED-4036",
+      "MED-5333",
+      "MED-4034",
+      "MED-3483",
+      "MED-3474"
+    ],
+    "best_matching_chunks": [
+      {
+        "document_id": "MED-2511",
+        "score": 0.2991272855086268,
+        "chunk_id": "MED-2511-fixed-384",
+        "text": "traditional foods, herbs, or spices consumed on a regular basis could be labeled \" functional foods \" and, indeed, are currently being explored for their potential health - enhancing properties."
+      },
+      {
+        "document_id": "MED-3475",
+        "score": 0.24961719400447285,
+        "chunk_id": "MED-3475-fixed-0",
+        "text": "effect of variety, processing, and storage on the flavonoid glycoside content and composition of lettuce and endive. eight varieties of lettuce ( lactuca sativum ) and three varieties of endive ( cichorium endivia ) were analyzed for flavonoid composition and content. total flavonoid contents, expressed as units of aglycon for fresh material, were in the ranges of 0. 3 - 229 microg / g for lettuce and 44 - 248 microg / g for endive. five quercetin conjugates [ quercetin"
+      },
+      {
+        "document_id": "MED-3484",
+        "score": 0.21898185509504048,
+        "chunk_id": "MED-3484-fixed-0",
+        "text": "flavonoids and cancer prevention : a review of the evidence. the objective of this work is to review data from epidemiological and preclinical studies addressing the potential benefits of diets based on flavonoids for cancer prevention. flavonoids are subdivided into subclasses including flavonols, flavones, flavanones, flavan - 3 - ols, anthocyanidins, and isoflavones. epidemiological studies suggest dietary intake of flavonoids may reduce the risk of tumors of the breast, colon, lung, prostate, and"
+      },
+      {
+        "document_id": "MED-2506",
+        "score": 0.1735839251207159,
+        "chunk_id": "MED-2506-fixed-128",
+        "text": "and potential cr phenotypes for the specific cohort of okinawans who are purported to have had a calorically restricted diet. nor has this cohort ' s subsequent mortality experience been rigorously studied. therefore, we investigated six decades of archived population data on the elderly cohort of okinawans ( aged 65 - plus ) for evidence of cr. analyses included traditional diet composition, energy intake, energy expenditure, anthropometry, plasma dhea, mortality from age - related diseases, and current survival patterns. findings include low caloric intake and negative energy balance at younger ages, little weight gain with age, life -"
+      },
+      {
+        "document_id": "MED-4032",
+        "score": 0.16488431274319243,
+        "chunk_id": "MED-4032-fixed-128",
+        "text": ", sex, and place of origin all following an omnivorous diet was chosen. the sample answered a questionnaire that investigated their eating habits, the frequency with which they eat meals, the main foodstuffs assumed, oral hygiene habits, and any painful symptomatology of the teeth or more general problems in the oral cavity. the sample was then subject to objective examination in which the saliva ph was measured and the teeth were checked for demineralization of the enamel, white spots, and caries ( using kavo diagnodent ) with particular attention being paid to the localization of these lesions, and lastly, sounding was carried"
+      },
+      {
+        "document_id": "MED-4036",
+        "score": 0.15660959609136854,
+        "chunk_id": "MED-4036-fixed-384",
+        "text": "reducing the amount of free sugars aiming towards the recommended maximum of no more than 10 % of energy intake. in addition, the frequency of consumption of foods containing free sugars should be limited to a maximum of 4 times per day. it is the responsibility of national authorities to ensure implementation of feasible fluoride programmes for their country."
+      },
+      {
+        "document_id": "MED-5333",
+        "score": 0.1547224998492498,
+        "chunk_id": "MED-5333-fixed-128",
+        "text": "##ferase and collagen ( ccol2a1 ) in oral mucosa. results : compared with volunteers with traditional eating habits, carbohydrate consumption was significantly higher ( + 22 % ) in vegetarians. this was associated with a significant stimulation of cpt1a ( + 50 % ) and octn2 ( + 10 % ) and a lowered collagen synthesis ( - 10 % ). conclusion : these novel findings provide further insight into the association of a changed fat metabolism and reduced collagen synthesis in vegetarians, which could also play a role in the aging process. copyright 2008 s. karger"
+      },
+      {
+        "document_id": "MED-4034",
+        "score": 0.1528176347620785,
+        "chunk_id": "MED-4034-fixed-512",
+        "text": "##riatrics society."
+      },
+      {
+        "document_id": "MED-3483",
+        "score": 0.14859783586041495,
+        "chunk_id": "MED-3483-fixed-256",
+        "text": "explored. finally, the induction of cellular defense proteins against oxidative stress and neurotoxicity by hesperetin, a main and widespread citrus flavonoid, are also discussed. it is suggested that citrus fruits, which are rich in abundant sources of hesperetin and other flavonoids, are promising for the development of general food - based neuroprotection and brain foods."
+      },
+      {
+        "document_id": "MED-3474",
+        "score": 0.14628702491247547,
+        "chunk_id": "MED-3474-fixed-512",
+        "text": "juice - and ischemic stroke risk."
+      }
+    ]
+  },
+  {
+    "dataset": "nfcorpus",
+    "seed": 42,
+    "query_id": "PLAIN-1161",
+    "query": "fava beans",
+    "gold_relevant_documents": [
+      "MED-4281"
+    ],
+    "strategy": "fixed",
+    "size": 256,
+    "retrieval_mode": "contextual_embedding",
+    "retrieved_top_10": [
+      "MED-2511",
+      "MED-3475",
+      "MED-3484",
+      "MED-2506",
+      "MED-5333",
+      "MED-4034",
+      "MED-5329",
+      "MED-3483",
+      "MED-2679",
+      "MED-3476"
+    ],
+    "best_matching_chunks": [
+      {
+        "document_id": "MED-2511",
+        "score": 0.26954045446412406,
+        "chunk_id": "MED-2511-fixed-254",
+        "text": "##mic load in these diets are likely contributing to a decreased risk for cardiovascular disease, some cancers, and other chronic diseases through multiple mechanisms, including reduced oxidative stress. a comparison of the nutrient profiles of the three dietary patterns shows that the traditional okinawan diet is the lowest in fat intake, particularly in terms of saturated fat, and highest in carbohydrate intake, in keeping with the very high intake of antioxidant - rich yet calorie - poor orange - yellow root vegetables, such as sweet potatoes, and green leafy vegetables. deeper analyses of the individual components of the okinawan diet reveal that many of the traditional foods, herbs, or spices consumed on a regular basis could be labeled \" functional foods \" and, indeed, are currently being explored for their potential health - enhancing properties."
+      },
+      {
+        "document_id": "MED-3475",
+        "score": 0.22692428559581176,
+        "chunk_id": "MED-3475-fixed-508",
+        "text": "( 13 % ), and coarse frisee ( 8 % ). significant demalonation was observed for both the quercetin and cyanidin glucosides in lettuce, whereas a similar degradation of the kaempferol analogue was found in endive tissue. storage of whole heads of both lettuce and endive in the dark at 1 degrees c and 98 % humidity for 7 days resulted in losses of total flavonol glycosides in the range of 7 - 46 %. the identification of the amounts, position of substitution, and nature of the sugars is important for understanding the potential bioavailability and biological activities of flavonoids in salads."
+      },
+      {
+        "document_id": "MED-3484",
+        "score": 0.18319914438885598,
+        "chunk_id": "MED-3484-fixed-254",
+        "text": "##ids have documented cancer preventative effects. proposed anticancer mechanisms for flavonoids are inhibition of proliferation, inflammation, invasion, metastasis, and activation of apoptosis. prospective studies with larger sample sizes are needed to develop biomarkers of flavonoid intake and effect. mechanistic studies are needed to ascertain how flavonoid - rich diets influence gene regulation for cancer prevention."
+      },
+      {
+        "document_id": "MED-2506",
+        "score": 0.16871972340964947,
+        "chunk_id": "MED-2506-fixed-254",
+        "text": "life - long low bmi, relatively high plasma dhea levels at older ages, low risk for mortality from age - related diseases, and survival patterns consistent with extended mean and maximum life span. this study lends epidemiologic support for phenotypic benefits of cr in humans and is consistent with the well - known literature on animals with regard to cr phenotypes and healthy aging."
+      },
+      {
+        "document_id": "MED-5333",
+        "score": 0.16320697131243933,
+        "chunk_id": "MED-5333-fixed-254",
+        "text": "karger ag, basel."
+      },
+      {
+        "document_id": "MED-4034",
+        "score": 0.15267612219754234,
+        "chunk_id": "MED-4034-fixed-508",
+        "text": ", the american geriatrics society."
+      },
+      {
+        "document_id": "MED-5329",
+        "score": 0.1519005595691158,
+        "chunk_id": "MED-5329-fixed-254",
+        "text": "products combined with lifestyle changes that include exercise and weight loss is an effective way to lower serum cholesterol and blood pressure."
+      },
+      {
+        "document_id": "MED-3483",
+        "score": 0.1495022851179058,
+        "chunk_id": "MED-3483-fixed-254",
+        "text": "are also explored. finally, the induction of cellular defense proteins against oxidative stress and neurotoxicity by hesperetin, a main and widespread citrus flavonoid, are also discussed. it is suggested that citrus fruits, which are rich in abundant sources of hesperetin and other flavonoids, are promising for the development of general food - based neuroprotection and brain foods."
+      },
+      {
+        "document_id": "MED-2679",
+        "score": 0.14310769757685105,
+        "chunk_id": "MED-2679-fixed-254",
+        "text": "kidney, colon and rectum was observed in some mice at 15 wk of age."
+      },
+      {
+        "document_id": "MED-3476",
+        "score": 0.12996038271236868,
+        "chunk_id": "MED-3476-fixed-0",
+        "text": "controlling for sugar and ascorbic acid, a mixture of flavonoids matching navel oranges significantly increases human postprandial serum antioxidan... fruit and vegetable consumption reduces the risk for cardiovascular disease development. the postprandial state is an important contributor to chronic disease development. orange flavonoids may reduce postprandial oxidation. it was hypothesized that a mixture of orange flavonoids would reduce postprandial oxidation better than a single orange flavonoid or orange sugar and ascorbic acid, but not as well as orange juice, when consumed with a typical breakfast. a placebo - controlled crossover trial ( 16 male and female participants, 4 treatments, 4 visits ) was carried out. treatments were placebo ( ascorbic acid and sugar equivalent to orange juice ) ; placebo plus hesperidin ; placebo plus hesperidin, luteolin, and naringenin ( mixture ; found to have synergistic antioxidant properties in vitro in previous work ) ; and orange juice ( positive control ). serum oxygen radical absorbance capacity ( orac ), total plasma phenolics ( tp ), and serum lipop"
+      }
+    ]
+  },
+  {
+    "dataset": "nfcorpus",
+    "seed": 42,
+    "query_id": "PLAIN-1161",
+    "query": "fava beans",
+    "gold_relevant_documents": [
+      "MED-4281"
+    ],
+    "strategy": "recursive",
+    "size": 128,
+    "retrieval_mode": "contextual_embedding",
+    "retrieved_top_10": [
+      "MED-2511",
+      "MED-3475",
+      "MED-3484",
+      "MED-2506",
+      "MED-3476",
+      "MED-4032",
+      "MED-4029",
+      "MED-3480",
+      "MED-3481",
+      "MED-3483"
+    ],
+    "best_matching_chunks": [
+      {
+        "document_id": "MED-2511",
+        "score": 0.28900704511745823,
+        "chunk_id": "MED-2511-recursive-4",
+        "text": "Deeper analyses of the individual components of the Okinawan diet reveal that many of the traditional foods, herbs, or spices consumed on a regular basis could be labeled \"functional foods\" and, indeed, are currently being explored for their potential health-enhancing properties."
+      },
+      {
+        "document_id": "MED-3475",
+        "score": 0.2468703897969272,
+        "chunk_id": "MED-3475-recursive-2",
+        "text": "cyanidin 3 - o - [ ( 6 - o - malonyl ) glucoside ] ] in the red - leafed varieties. Three kaempferol conjugates [kaempferol 3-O-glucoside, kaempferol 3-O-glucuronide, and kaempferol 3-O-[6-O-malonyl)glucoside]] were measured in each of the endive varieties."
+      },
+      {
+        "document_id": "MED-3484",
+        "score": 0.23270979518115611,
+        "chunk_id": "MED-3484-recursive-0",
+        "text": "Flavonoids and cancer prevention: a review of the evidence. The objective of this work is to review data from epidemiological and preclinical studies addressing the potential benefits of diets based on flavonoids for cancer prevention. Flavonoids are subdivided into subclasses including flavonols, flavones, flavanones, flavan-3-ols, anthocyanidins, and isoflavones."
+      },
+      {
+        "document_id": "MED-2506",
+        "score": 0.20214578735257116,
+        "chunk_id": "MED-2506-recursive-3",
+        "text": "This study lends epidemiologic support for phenotypic benefits of CR in humans and is consistent with the well-known literature on animals with regard to CR phenotypes and healthy aging."
+      },
+      {
+        "document_id": "MED-3476",
+        "score": 0.16430818442199846,
+        "chunk_id": "MED-3476-recursive-1",
+        "text": "It was hypothesized that a mixture of orange flavonoids would reduce postprandial oxidation better than a single orange flavonoid or orange sugar and ascorbic acid, but not as well as orange juice, when consumed with a typical breakfast. A placebo-controlled crossover trial (16 male and female participants, 4 treatments, 4 visits) was carried out."
+      },
+      {
+        "document_id": "MED-4032",
+        "score": 0.1550395553386507,
+        "chunk_id": "MED-4032-recursive-2",
+        "text": "The sample was then subject to objective examination in which the saliva pH was measured and the teeth were checked for demineralization of the enamel, white spots, and caries (using KaVo DIAGNOdent) with particular attention being paid to the localization of these lesions, and lastly, sounding was carried out to detect any osseous defects and periodontal pockets."
+      },
+      {
+        "document_id": "MED-4029",
+        "score": 0.145903639553563,
+        "chunk_id": "MED-4029-recursive-2",
+        "text": "Karger AG, Basel."
+      },
+      {
+        "document_id": "MED-3480",
+        "score": 0.14517471743315025,
+        "chunk_id": "MED-3480-recursive-4",
+        "text": "In conclusion, the consumption of fruits, especially citrus, and cruciferous vegetables may protect against cerebrovascular diseases."
+      },
+      {
+        "document_id": "MED-3481",
+        "score": 0.1407309793709851,
+        "chunk_id": "MED-3481-recursive-1",
+        "text": "Natural products provide a vast pool of PL inhibitors that can possibly be developed into clinical products. This article reviews various extracts and secondary metabolites from plants and microbial origin with PL inhibitory activity that can be focused for drug development programs."
+      },
+      {
+        "document_id": "MED-3483",
+        "score": 0.1401387473514586,
+        "chunk_id": "MED-3483-recursive-3",
+        "text": "It is suggested that citrus fruits, which are rich in abundant sources of hesperetin and other flavonoids, are promising for the development of general food-based neuroprotection and brain foods."
+      }
+    ]
+  },
+  {
+    "dataset": "nfcorpus",
+    "seed": 42,
+    "query_id": "PLAIN-1161",
+    "query": "fava beans",
+    "gold_relevant_documents": [
+      "MED-4281"
+    ],
+    "strategy": "recursive",
+    "size": 256,
+    "retrieval_mode": "contextual_embedding",
+    "retrieved_top_10": [
+      "MED-2511",
+      "MED-3475",
+      "MED-3484",
+      "MED-5333",
+      "MED-2506",
+      "MED-5329",
+      "MED-3483",
+      "MED-2679",
+      "MED-3474",
+      "MED-3476"
+    ],
+    "best_matching_chunks": [
+      {
+        "document_id": "MED-2511",
+        "score": 0.2626482750961666,
+        "chunk_id": "MED-2511-recursive-1",
+        "text": "Features such as the low levels of saturated fat, high antioxidant intake, and low glycemic load in these diets are likely contributing to a decreased risk for cardiovascular disease, some cancers, and other chronic diseases through multiple mechanisms, including reduced oxidative stress. A comparison of the nutrient profiles of the three dietary patterns shows that the traditional Okinawan diet is the lowest in fat intake, particularly in terms of saturated fat, and highest in carbohydrate intake, in keeping with the very high intake of antioxidant-rich yet calorie-poor orange-yellow root vegetables, such as sweet potatoes, and green leafy vegetables. Deeper analyses of the individual components of the Okinawan diet reveal that many of the traditional foods, herbs, or spices consumed on a regular basis could be labeled \"functional foods\" and, indeed, are currently being explored for their potential health-enhancing properties."
+      },
+      {
+        "document_id": "MED-3475",
+        "score": 0.24331412680502473,
+        "chunk_id": "MED-3475-recursive-0",
+        "text": "Effect of variety, processing, and storage on the flavonoid glycoside content and composition of lettuce and endive. Eight varieties of lettuce (Lactuca sativum) and three varieties of endive (Cichorium endivia) were analyzed for flavonoid composition and content. Total flavonoid contents, expressed as units of aglycon for fresh material, were in the ranges of 0.3-229 microg/g for lettuce and 44-248 microg/g for endive."
+      },
+      {
+        "document_id": "MED-3484",
+        "score": 0.18747420079672578,
+        "chunk_id": "MED-3484-recursive-1",
+        "text": "A limited number of intervention trials of flavonoids have documented cancer preventative effects. Proposed anticancer mechanisms for flavonoids are inhibition of proliferation, inflammation, invasion, metastasis, and activation of apoptosis. Prospective studies with larger sample sizes are needed to develop biomarkers of flavonoid intake and effect. Mechanistic studies are needed to ascertain how flavonoid-rich diets influence gene regulation for cancer prevention."
+      },
+      {
+        "document_id": "MED-5333",
+        "score": 0.16320697131243933,
+        "chunk_id": "MED-5333-recursive-1",
+        "text": "Karger AG, Basel."
+      },
+      {
+        "document_id": "MED-2506",
+        "score": 0.16305039061930426,
+        "chunk_id": "MED-2506-recursive-1",
+        "text": "Findings include low caloric intake and negative energy balance at younger ages, little weight gain with age, life-long low BMI, relatively high plasma DHEA levels at older ages, low risk for mortality from age-related diseases, and survival patterns consistent with extended mean and maximum life span. This study lends epidemiologic support for phenotypic benefits of CR in humans and is consistent with the well-known literature on animals with regard to CR phenotypes and healthy aging."
+      },
+      {
+        "document_id": "MED-5329",
+        "score": 0.15654799992447999,
+        "chunk_id": "MED-5329-recursive-1",
+        "text": "CONCLUSION: A strict, very low-fat vegetarian diet free from all animal products combined with lifestyle changes that include exercise and weight loss is an effective way to lower serum cholesterol and blood pressure."
+      },
+      {
+        "document_id": "MED-3483",
+        "score": 0.15157279327544737,
+        "chunk_id": "MED-3483-recursive-1",
+        "text": "Receptor-mediated neuroprotective actions and parallel signaling pathways are also explored. Finally, the induction of cellular defense proteins against oxidative stress and neurotoxicity by hesperetin, a main and widespread citrus flavonoid, are also discussed. It is suggested that citrus fruits, which are rich in abundant sources of hesperetin and other flavonoids, are promising for the development of general food-based neuroprotection and brain foods."
+      },
+      {
+        "document_id": "MED-2679",
+        "score": 0.13135709038480686,
+        "chunk_id": "MED-2679-recursive-1",
+        "text": "Toxicity to the kidney, colon and rectum was observed in some mice at 15 wk of age."
+      },
+      {
+        "document_id": "MED-3474",
+        "score": 0.13065763663136912,
+        "chunk_id": "MED-3474-recursive-2",
+        "text": "Legumes or potatoes were not associated with lower ischemic stroke risk. The multivariate pooled RR for total stroke was 0.96 (95% CI, 0.93-1.00) for each increment of 2 servings per day. CONCLUSIONS: These data support a protective relationship between consumption of fruit and vegetables-particularly cruciferous and green leafy vegetables and citrus fruit and juice-and ischemic stroke risk."
+      },
+      {
+        "document_id": "MED-3476",
+        "score": 0.12996038271236868,
+        "chunk_id": "MED-3476-recursive-0",
+        "text": "Controlling for sugar and ascorbic acid, a mixture of flavonoids matching navel oranges significantly increases human postprandial serum antioxidan... Fruit and vegetable consumption reduces the risk for cardiovascular disease development. The postprandial state is an important contributor to chronic disease development. Orange flavonoids may reduce postprandial oxidation. It was hypothesized that a mixture of orange flavonoids would reduce postprandial oxidation better than a single orange flavonoid or orange sugar and ascorbic acid, but not as well as orange juice, when consumed with a typical breakfast. A placebo-controlled crossover trial (16 male and female participants, 4 treatments, 4 visits) was carried out. Treatments were placebo (ascorbic acid and sugar equivalent to orange juice); placebo plus hesperidin; placebo plus hesperidin, luteolin, and naringenin (mixture; found to have synergistic antioxidant properties in vitro in previous work); and orange juice (positive control)."
+      }
+    ]
+  },
+  {
+    "dataset": "nfcorpus",
+    "seed": 42,
+    "query_id": "PLAIN-1161",
+    "query": "fava beans",
+    "gold_relevant_documents": [
+      "MED-4281"
+    ],
+    "strategy": "semantic",
+    "size": 128,
+    "retrieval_mode": "contextual_embedding",
+    "retrieved_top_10": [
+      "MED-2511",
+      "MED-3475",
+      "MED-2506",
+      "MED-3484",
+      "MED-3476",
+      "MED-3474",
+      "MED-3480",
+      "MED-4032",
+      "MED-4036",
+      "MED-5333"
+    ],
+    "best_matching_chunks": [
+      {
+        "document_id": "MED-2511",
+        "score": 0.28063061416721113,
+        "chunk_id": "MED-2511-semantic-4",
+        "text": "a comparison of the nutrient profiles of the three dietary patterns shows that the traditional okinawan diet is the lowest in fat intake, particularly in terms of saturated fat, and highest in carbohydrate intake, in keeping with the very high intake of antioxidant - rich yet calorie - poor orange - yellow root vegetables, such as sweet potatoes, and green leafy vegetables. deeper analyses of the individual components of the okinawan diet reveal that many of the traditional foods, herbs, or spices consumed on a regular basis could be labeled \" functional foods \" and, indeed, are currently being explored for their potential health - enhancing"
+      },
+      {
+        "document_id": "MED-3475",
+        "score": 0.277238679281772,
+        "chunk_id": "MED-3475-semantic-5",
+        "text": "frisee ( 8 % )."
+      },
+      {
+        "document_id": "MED-2506",
+        "score": 0.2423663244180096,
+        "chunk_id": "MED-2506-semantic-1",
+        "text": "and potential cr phenotypes for the specific cohort of okinawans who are purported to have had a calorically restricted diet."
+      },
+      {
+        "document_id": "MED-3484",
+        "score": 0.2162824766980338,
+        "chunk_id": "MED-3484-semantic-0",
+        "text": "flavonoids and cancer prevention : a review of the evidence. the objective of this work is to review data from epidemiological and preclinical studies addressing the potential benefits of diets based on flavonoids for cancer prevention."
+      },
+      {
+        "document_id": "MED-3476",
+        "score": 0.21177934494215056,
+        "chunk_id": "MED-3476-semantic-7",
+        "text": "the placebo plus mixture and orange juice groups were significantly increased in orac and lo lag time."
+      },
+      {
+        "document_id": "MED-3474",
+        "score": 0.1987329795845355,
+        "chunk_id": "MED-3474-semantic-6",
+        "text": "legumes or potatoes were not associated with lower ischemic stroke risk."
+      },
+      {
+        "document_id": "MED-3480",
+        "score": 0.1900457687838455,
+        "chunk_id": "MED-3480-semantic-9",
+        "text": "cerebrovascular diseases."
+      },
+      {
+        "document_id": "MED-4032",
+        "score": 0.17937260333653274,
+        "chunk_id": "MED-4032-semantic-1",
+        "text": ", sex, and place of origin all following an omnivorous diet was chosen."
+      },
+      {
+        "document_id": "MED-4036",
+        "score": 0.17381570884566602,
+        "chunk_id": "MED-4036-semantic-7",
+        "text": "it is the responsibility of national authorities to ensure implementation of feasible fluoride programmes for their country."
+      },
+      {
+        "document_id": "MED-5333",
+        "score": 0.16320697131243933,
+        "chunk_id": "MED-5333-semantic-7",
+        "text": "karger ag, basel."
+      }
+    ]
+  },
+  {
+    "dataset": "nfcorpus",
+    "seed": 42,
+    "query_id": "PLAIN-1161",
+    "query": "fava beans",
+    "gold_relevant_documents": [
+      "MED-4281"
+    ],
+    "strategy": "semantic",
+    "size": 256,
+    "retrieval_mode": "contextual_embedding",
+    "retrieved_top_10": [
+      "MED-2511",
+      "MED-3475",
+      "MED-3484",
+      "MED-2506",
+      "MED-3476",
+      "MED-3474",
+      "MED-4036",
+      "MED-3480",
+      "MED-5333",
+      "MED-4034"
+    ],
+    "best_matching_chunks": [
+      {
+        "document_id": "MED-2511",
+        "score": 0.2865973652193696,
+        "chunk_id": "MED-2511-semantic-3",
+        "text": "a comparison of the nutrient profiles of the three dietary patterns shows that the traditional okinawan diet is the lowest in fat intake, particularly in terms of saturated fat, and highest in carbohydrate intake, in keeping with the very high intake of antioxidant - rich yet calorie - poor orange - yellow root vegetables, such as sweet potatoes, and green leafy vegetables. deeper analyses of the individual components of the okinawan diet reveal that many of the traditional foods, herbs, or spices consumed on a regular basis could be labeled \" functional foods \" and, indeed, are currently being explored for their potential health - enhancing properties."
+      },
+      {
+        "document_id": "MED-3475",
+        "score": 0.2433141215078552,
+        "chunk_id": "MED-3475-semantic-0",
+        "text": "effect of variety, processing, and storage on the flavonoid glycoside content and composition of lettuce and endive. eight varieties of lettuce ( lactuca sativum ) and three varieties of endive ( cichorium endivia ) were analyzed for flavonoid composition and content. total flavonoid contents, expressed as units of aglycon for fresh material, were in the ranges of 0. 3 - 229 microg / g for lettuce and 44 - 248 microg / g for endive."
+      },
+      {
+        "document_id": "MED-3484",
+        "score": 0.2162824766980338,
+        "chunk_id": "MED-3484-semantic-0",
+        "text": "flavonoids and cancer prevention : a review of the evidence. the objective of this work is to review data from epidemiological and preclinical studies addressing the potential benefits of diets based on flavonoids for cancer prevention."
+      },
+      {
+        "document_id": "MED-2506",
+        "score": 0.21468266341846104,
+        "chunk_id": "MED-2506-semantic-2",
+        "text": "therefore, we investigated six decades of archived population data on the elderly cohort of okinawans ( aged 65 - plus ) for evidence of cr."
+      },
+      {
+        "document_id": "MED-3476",
+        "score": 0.21177934494215056,
+        "chunk_id": "MED-3476-semantic-7",
+        "text": "the placebo plus mixture and orange juice groups were significantly increased in orac and lo lag time."
+      },
+      {
+        "document_id": "MED-3474",
+        "score": 0.1987329795845355,
+        "chunk_id": "MED-3474-semantic-5",
+        "text": "legumes or potatoes were not associated with lower ischemic stroke risk."
+      },
+      {
+        "document_id": "MED-4036",
+        "score": 0.17381570884566602,
+        "chunk_id": "MED-4036-semantic-6",
+        "text": "it is the responsibility of national authorities to ensure implementation of feasible fluoride programmes for their country."
+      },
+      {
+        "document_id": "MED-3480",
+        "score": 0.16937742149939625,
+        "chunk_id": "MED-3480-semantic-3",
+        "text": "the participants were 40 - 74 years of age and free of cardiovascular diseases at baseline."
+      },
+      {
+        "document_id": "MED-5333",
+        "score": 0.16320697131243933,
+        "chunk_id": "MED-5333-semantic-7",
+        "text": "karger ag, basel."
+      },
+      {
+        "document_id": "MED-4034",
+        "score": 0.1624969953622026,
+        "chunk_id": "MED-4034-semantic-4",
+        "text": "diet was assessed using food frequency questionnaires ( ffqs )."
+      }
+    ]
+  }
+]

@@ -1,0 +1,28 @@
+ChunkWise Demonstration Document
+
+Introduction
+Chunking is the process of dividing a long document into smaller pieces called chunks. A retrieval system searches these chunks instead of searching the entire document at once. Good chunks preserve meaning while remaining small enough for an embedding model to process.
+
+Fixed-Length Chunking
+Fixed-length chunking divides text into equal token windows. It is simple, predictable, and fast. However, a fixed boundary can split a sentence or separate a heading from its explanation. This method is useful when consistent chunk sizes and low processing cost are important.
+
+Recursive Chunking
+Recursive chunking tries to preserve the natural structure of a document. It can prefer paragraphs, then sentences, and finally individual words when a section is too large. This usually creates more readable chunks while still respecting the maximum token budget.
+
+Semantic Chunking
+Semantic chunking compares neighboring sentence embeddings. When two neighboring sentences are less similar than a chosen threshold, the system can create a boundary between them. This is a simple semantic-boundary heuristic, not a generative language model. It may improve topical separation, but it requires extra sentence-embedding work.
+
+Embeddings and Retrieval
+An embedding represents text as a numerical vector. Sentences with related meanings tend to have vectors that point in similar directions. ChunkWise uses the all-MiniLM-L6-v2 sentence-transformer model and cosine similarity to compare a query with document chunks.
+
+Document-Level Ranking
+ChunkWise scores every chunk, but it ranks documents rather than individual chunks. The score of a document is the highest score among its chunks. The best matching chunk is displayed so that users can understand why a document was retrieved. Cosine similarity is a ranking score and is not a confidence probability.
+
+Choosing a Strategy
+Fixed-length chunking is a strong baseline because it is easy to reproduce. Recursive chunking is helpful for reports, notes, and articles with clear paragraphs. Semantic chunking can be useful when a document changes topic frequently. The best choice depends on retrieval quality, indexing time, and the structure of the data.
+
+Practical Limitations
+Uploaded documents do not have relevance labels, so Recall, MRR, and NDCG cannot be calculated for them. Scanned PDF files contain images rather than selectable text and require OCR, which is not included in this demonstration. Benchmark metrics require labeled datasets such as SciFact or FiQA.
+
+Conclusion
+There is no universally best chunking method. A reliable comparison should use the same embedding model, the same document subset, deterministic settings, and document-level evaluation. ChunkWise provides a small and transparent way to inspect these trade-offs.

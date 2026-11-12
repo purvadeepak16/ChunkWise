@@ -1,0 +1,12 @@
+model_name: sentence-transformers/all-MiniLM-L6-v2
+context_model_name: google/flan-t5-small
+target_chunk_sizes: [128, 256]
+semantic_threshold: 0.55
+max_upload_mb: 10
+default_top_k: 5
+benchmark:
+  final_queries: 50
+  final_documents: 1000
+  smoke_queries: 5
+  smoke_documents: 100
+  seeds: [42, 123, 2026]

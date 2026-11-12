@@ -1,0 +1,346 @@
+[
+  {
+    "dataset": "scifact",
+    "seed": 42,
+    "query_id": "431",
+    "query": "FoxO3a activation in neuronal death is mediated by reactive oxygen species (ROS).",
+    "gold_relevant_documents": [
+      "28937856"
+    ],
+    "strategy": "fixed",
+    "size": 128,
+    "retrieval_mode": "contextual_bm25",
+    "retrieved_top_10": [
+      "4999633",
+      "20659283",
+      "12670680",
+      "14060030",
+      "32985041",
+      "40987633",
+      "5991309",
+      "2039912",
+      "25353658",
+      "13878124"
+    ],
+    "best_matching_chunks": [
+      {
+        "document_id": "4999633",
+        "score": 1.0,
+        "chunk_id": "4999633-fixed-512",
+        "text": "at concentrations above 1 nmol / l, suggesting that estrogen over - stimulation can lead to cell death, as has previously been reported, and that mer - \u03b1 participates. e2 - mediated activation of adenylyl cyclase and downstream participation of protein kinase a were shown to be involved in these responses. rapid mer - \u03b1 - mediated nongenomic signaling cascades generate camp and downstream signaling events, which contribute to the regulation of breast cancer cell number."
+      },
+      {
+        "document_id": "20659283",
+        "score": 0.9811828914110032,
+        "chunk_id": "20659283-fixed-384",
+        "text": "##11 ( cyp3a11 ) mrna, whereas equol had no effect. cyp3a11 mrna was also induced in vivo in mice fed a soy protein - containing diet. the results presented herein demonstrate that there is a species - specific difference in the activation of pxr by isoflavones and equol."
+      },
+      {
+        "document_id": "12670680",
+        "score": 0.7984456917226576,
+        "chunk_id": "12670680-fixed-0",
+        "text": "basophils and the t helper 2 environment can promote the development of lupus nephritis in systemic lupus erythematosus ( sle ), self - reactive antibodies can target the kidney ( lupus nephritis ), leading to functional failure and possible mortality. we report that activation of basophils by autoreactive ige causes their homing to lymph nodes, promoting t helper type 2 ( t ( h ) 2 ) cell differentiation and enhancing the production of self - reactive antibodies that cause lupus - like nephritis in mice lacking the src family protein"
+      },
+      {
+        "document_id": "14060030",
+        "score": 0.7285909717157608,
+        "chunk_id": "14060030-fixed-256",
+        "text": "cycle of a subpopulation of nonterminally differentiated myocytes or by activation of a pool of primitive cells that become committed to the myocyte lineage. the only response of cardiomyocytes to stress is hypertrophy and / or death. therefore, a tremendous effort was made to identify the molecular mechanisms of myocyte hypertrophy and their genetic control. a sophisticated knowledge of various signaling pathways has been achieved, and our understanding of the biology of hypertrophic myocyte growth has advanced markedly. 3 an array of new technologies has been introduced that has led to a scientific revolution in terms of questions, approaches,"
+      },
+      {
+        "document_id": "32985041",
+        "score": 0.6781255223291401,
+        "chunk_id": "32985041-fixed-0",
+        "text": "protein s - nitrosylation : a physiological signal for neuronal nitric oxide nitric oxide ( no ) has been linked to numerous physiological and pathophysiological events that are not readily explained by the well established effects of no on soluble guanylyl cyclase. exogenous no s - nitrosylates cysteine residues in proteins, but whether this is an important function of endogenous no is unclear. here, using a new proteomic approach, we identify a population of proteins that are endogenously s - nitrosylated, and demonstrate the loss of this modification in mice"
+      },
+      {
+        "document_id": "40987633",
+        "score": 0.6729080132524973,
+        "chunk_id": "40987633-fixed-128",
+        "text": "iii recruits vps4, an aaa - atpase that abscises the membrane during various cellular processes including autophagy and intraluminal vesicle formation. chmp2bintron5 results in a c - terminus truncation removing an important vps4 binding site as well as eliminating the normal autoinhibitory resting state of chmp2b. chmp2b is expressed in most cell types but seems to be especially vital for proper neuronal function. chmp2bintron5 - mediated phenotypes include misregulation of transmembrane receptors, accumulation of multilamella"
+      },
+      {
+        "document_id": "5991309",
+        "score": 0.5701583973875242,
+        "chunk_id": "5991309-fixed-0",
+        "text": "targeting tumor - necrosis factor receptor pathways for tumor immunotherapy with the success of ipilimumab and promise of programmed death - 1 pathway - targeted agents, the field of tumor immunotherapy is expanding rapidly. newer targets for clinical development include select members of the tumor necrosis factor receptor ( tnfr ) family. agonist antibodies to these co - stimulatory molecules target both t and b cells, modulating t - cell activation and enhancing immune responses. in vitro and in vivo preclinical data have provided the basis for continued development of 4 - 1bb, ox40, gluco"
+      },
+      {
+        "document_id": "2039912",
+        "score": 0.5593342327044293,
+        "chunk_id": "2039912-fixed-0",
+        "text": "the origin and neuronal function of in vivo nonsynaptic glutamate. basal extracellular glutamate sampled in vivo is present in micromolar concentrations in the extracellular space outside the synaptic cleft, and neither the origin nor the function of this glutamate is known. this report reveals that blockade of glutamate release from the cystine - glutamate antiporter produced a significant decrease ( 60 % ) in extrasynaptic glutamate levels in the rat striatum, whereas blockade of voltage - dependent na + and ca2 + channels produced relatively"
+      },
+      {
+        "document_id": "25353658",
+        "score": 0.557557161308839,
+        "chunk_id": "25353658-fixed-0",
+        "text": "germinal center t follicular helper cell il - 4 production is dependent on signaling lymphocytic activation molecule receptor ( cd150 ). cd4 t cell help is critical for the generation and maintenance of germinal centers ( gcs ), and t follicular helper ( t ( fh ) ) cells are the cd4 t cell subset required for this process. signaling lymphocytic activation molecule ( slam ) - associated protein ( sap [ sh2d1a ] ) expression in cd4 t cells is essential for gc development. however, sap - deficient mice have only"
+      },
+      {
+        "document_id": "13878124",
+        "score": 0.5486083372679431,
+        "chunk_id": "13878124-fixed-128",
+        "text": "the meningeal basement membrane ( bm ) followed by apoptotic death of rgcs. apoptosis is also induced by surgical removal of the meninges. finally, mice lacking the bm components laminin alpha2 and alpha4 show defects in the attachment of rgc processes at the meninges, a reduction in cortical size, and enhanced apoptosis of rgc cells. our findings demonstrate that attachment of rgc processes at the meninges is important for rgc survival and the control of cortical size."
+      }
+    ]
+  },
+  {
+    "dataset": "scifact",
+    "seed": 42,
+    "query_id": "431",
+    "query": "FoxO3a activation in neuronal death is mediated by reactive oxygen species (ROS).",
+    "gold_relevant_documents": [
+      "28937856"
+    ],
+    "strategy": "recursive",
+    "size": 128,
+    "retrieval_mode": "contextual_bm25",
+    "retrieved_top_10": [
+      "4999633",
+      "20659283",
+      "14060030",
+      "13878124",
+      "32985041",
+      "12670680",
+      "24917562",
+      "2039912",
+      "5991309",
+      "29334259"
+    ],
+    "best_matching_chunks": [
+      {
+        "document_id": "4999633",
+        "score": 1.0,
+        "chunk_id": "4999633-recursive-5",
+        "text": "Proliferation of mERlow cells was stimulated over the whole range of E2concentrations, whereas the number of mERhigh cells was greatly decreased at concentrations above 1 nmol/l, suggesting that estrogen over-stimulation can lead to cell death, as has previously been reported, and that mER-\u03b1 participates. E2-mediated activation of adenylyl cyclase and downstream participation of protein kinase A were shown to be involved in these responses. Rapid mER-\u03b1-mediated nongenomic signaling cascades generate cAMP and downstream signaling events, which contribute to the regulation of breast cancer cell number."
+      },
+      {
+        "document_id": "20659283",
+        "score": 0.9288570785140396,
+        "chunk_id": "20659283-recursive-0",
+        "text": "Human CYP3A4 and murine Cyp3A11 are regulated by equol and genistein via the pregnane X receptor in a species-specific manner. Pregnane X receptor (PXR) is an important component of the body's adaptive defense system responsible for the elimination of various toxic xenobiotics. PXR activation by endogenous and exogenous chemicals, including steroids, antibiotics, bile acids, and herbal compounds, results in induction of drug metabolism."
+      },
+      {
+        "document_id": "14060030",
+        "score": 0.9104316702928101,
+        "chunk_id": "14060030-recursive-2",
+        "text": "On the basis of this paradigm, cardiomyocytes undergo cellular hypertrophy1,2 but cannot be replaced either by entry into the cell cycle of a subpopulation of nonterminally differentiated myocytes or by activation of a pool of primitive cells that become committed to the myocyte lineage. The only response of cardiomyocytes to stress is hypertrophy and/or death. Therefore, a tremendous effort was made to identify the molecular mechanisms of myocyte hypertrophy and their genetic control."
+      },
+      {
+        "document_id": "13878124",
+        "score": 0.839674780937503,
+        "chunk_id": "13878124-recursive-1",
+        "text": "TUNEL stainings and time-lapse video recordings demonstrate that beta1-deficient RGCs processes detach from the meningeal basement membrane (BM) followed by apoptotic death of RGCs. Apoptosis is also induced by surgical removal of the meninges. Finally, mice lacking the BM components laminin alpha2 and alpha4 show defects in the attachment of RGC processes at the meninges, a reduction in cortical size, and enhanced apoptosis of RGC cells."
+      },
+      {
+        "document_id": "32985041",
+        "score": 0.8058089137472203,
+        "chunk_id": "32985041-recursive-0",
+        "text": "Protein S-nitrosylation: a physiological signal for neuronal nitric oxide Nitric oxide (NO) has been linked to numerous physiological and pathophysiological events that are not readily explained by the well established effects of NO on soluble guanylyl cyclase. Exogenous NO S-nitrosylates cysteine residues in proteins, but whether this is an important function of endogenous NO is unclear."
+      },
+      {
+        "document_id": "12670680",
+        "score": 0.779856294532647,
+        "chunk_id": "12670680-recursive-1",
+        "text": "We report that activation of basophils by autoreactive IgE causes their homing to lymph nodes, promoting T helper type 2 (T(H)2) cell differentiation and enhancing the production of self-reactive antibodies that cause lupus-like nephritis in mice lacking the Src family protein tyrosine kinase Lyn (Lyn(-/-) mice)."
+      },
+      {
+        "document_id": "24917562",
+        "score": 0.7606746974479303,
+        "chunk_id": "24917562-recursive-1",
+        "text": "Soluble tumor necrosis factor receptor 55 (sTNF-R55) and sTNF-R75, soluble intercellular adhesion molecule (sICAM)-1, soluble E (sE)-selectin, lipopolysaccharide (LPS)-binding protein (LBP), interleukin (IL)-6, and TNF-alpha were measured using sandwich enzyme-linked immunosorbent assay (ELISA), and C-reactive protein (CRP) was measured by turbidimetry."
+      },
+      {
+        "document_id": "2039912",
+        "score": 0.702893881339843,
+        "chunk_id": "2039912-recursive-0",
+        "text": "The origin and neuronal function of in vivo nonsynaptic glutamate. Basal extracellular glutamate sampled in vivo is present in micromolar concentrations in the extracellular space outside the synaptic cleft, and neither the origin nor the function of this glutamate is known."
+      },
+      {
+        "document_id": "5991309",
+        "score": 0.672493090920121,
+        "chunk_id": "5991309-recursive-0",
+        "text": "Targeting tumor-necrosis factor receptor pathways for tumor immunotherapy With the success of ipilimumab and promise of programmed death-1 pathway-targeted agents, the field of tumor immunotherapy is expanding rapidly. Newer targets for clinical development include select members of the tumor necrosis factor receptor (TNFR) family. Agonist antibodies to these co-stimulatory molecules target both T and B cells, modulating T-cell activation and enhancing immune responses."
+      },
+      {
+        "document_id": "29334259",
+        "score": 0.6468389505513953,
+        "chunk_id": "29334259-recursive-0",
+        "text": "Sequence-based species delimitation for the DNA taxonomy of undescribed insects. Cataloging the very large number of undescribed species of insects could be greatly accelerated by automated DNA based approaches, but procedures for large-scale species discovery from sequence data are currently lacking. Here, we use mitochondrial DNA variation to delimit species in a poorly known beetle radiation in the genus Rivacindela from arid Australia."
+      }
+    ]
+  },
+  {
+    "dataset": "scifact",
+    "seed": 42,
+    "query_id": "431",
+    "query": "FoxO3a activation in neuronal death is mediated by reactive oxygen species (ROS).",
+    "gold_relevant_documents": [
+      "28937856"
+    ],
+    "strategy": "semantic",
+    "size": 128,
+    "retrieval_mode": "contextual_bm25",
+    "retrieved_top_10": [
+      "20659283",
+      "14060030",
+      "12670680",
+      "32985041",
+      "2039912",
+      "13230773",
+      "40987633",
+      "25353658",
+      "3930020",
+      "4999633"
+    ],
+    "best_matching_chunks": [
+      {
+        "document_id": "20659283",
+        "score": 1.0,
+        "chunk_id": "20659283-semantic-6",
+        "text": "the results presented herein demonstrate that there is a species - specific difference in the activation of pxr by isoflavones and equol."
+      },
+      {
+        "document_id": "14060030",
+        "score": 0.7081839005678309,
+        "chunk_id": "14060030-semantic-3",
+        "text": "on the basis of this paradigm, cardiomyocytes undergo cellular hypertrophy1, 2 but cannot be replaced either by entry into the cell cycle of a subpopulation of nonterminally differentiated myocytes or by activation of a pool of primitive cells that become committed to the myocyte lineage."
+      },
+      {
+        "document_id": "12670680",
+        "score": 0.7069493581337095,
+        "chunk_id": "12670680-semantic-0",
+        "text": "basophils and the t helper 2 environment can promote the development of lupus nephritis in systemic lupus erythematosus ( sle ), self - reactive antibodies can target the kidney ( lupus nephritis ), leading to functional failure and possible mortality. we report that activation of basophils by autoreactive ige causes their homing to lymph nodes, promoting t helper type 2 ( t ( h ) 2 ) cell differentiation and enhancing the production of self - reactive antibodies that cause lupus - like nephritis in mice lacking the src family protein"
+      },
+      {
+        "document_id": "32985041",
+        "score": 0.6670209081196676,
+        "chunk_id": "32985041-semantic-0",
+        "text": "protein s - nitrosylation : a physiological signal for neuronal nitric oxide nitric oxide ( no ) has been linked to numerous physiological and pathophysiological events that are not readily explained by the well established effects of no on soluble guanylyl cyclase. exogenous no s - nitrosylates cysteine residues in proteins, but whether this is an important function of endogenous no is unclear. here, using a new proteomic approach, we identify a population of proteins that are endogenously s - nitrosylated, and demonstrate the loss of this modification in mice"
+      },
+      {
+        "document_id": "2039912",
+        "score": 0.6499351396109495,
+        "chunk_id": "2039912-semantic-0",
+        "text": "the origin and neuronal function of in vivo nonsynaptic glutamate. basal extracellular glutamate sampled in vivo is present in micromolar concentrations in the extracellular space outside the synaptic cleft, and neither the origin nor the function of this glutamate is known."
+      },
+      {
+        "document_id": "13230773",
+        "score": 0.6271911287405153,
+        "chunk_id": "13230773-semantic-5",
+        "text": "maximal oxygen consumption ( vo2max ) was estimated by measuring the heart rate response to reference levels of submaximal work."
+      },
+      {
+        "document_id": "40987633",
+        "score": 0.609615186805699,
+        "chunk_id": "40987633-semantic-4",
+        "text": "chmp2bintron5 results in a c - terminus truncation removing an important vps4 binding site as well as eliminating the normal autoinhibitory resting state of chmp2b. chmp2b is expressed in most cell types but seems to be especially vital for proper neuronal function. chmp2bintron5 - mediated phenotypes include misregulation of transmembrane receptors, accumulation of multilamellar structures, abnormal lysosomal morphology, down regulation of a brain - specific micro rna ( mirna - 124 ), abnormal dendritic spine morphology, decrease in"
+      },
+      {
+        "document_id": "25353658",
+        "score": 0.5888218325252466,
+        "chunk_id": "25353658-semantic-0",
+        "text": "germinal center t follicular helper cell il - 4 production is dependent on signaling lymphocytic activation molecule receptor ( cd150 ). cd4 t cell help is critical for the generation and maintenance of germinal centers ( gcs ), and t follicular helper ( t ( fh ) ) cells are the cd4 t cell subset required for this process. signaling lymphocytic activation molecule ( slam ) - associated protein ( sap [ sh2d1a ] ) expression in cd4 t cells is essential for gc development."
+      },
+      {
+        "document_id": "3930020",
+        "score": 0.5752819886818639,
+        "chunk_id": "3930020-semantic-2",
+        "text": "the inhibitory effect is mediated by soluble lipophilic factors released by the parasites and not by host - derived antiinflammatory cytokines, such as interleukin - 10."
+      },
+      {
+        "document_id": "4999633",
+        "score": 0.5494162248629266,
+        "chunk_id": "4999633-semantic-10",
+        "text": "e2 - mediated activation of adenylyl cyclase and downstream participation of protein kinase a were shown to be involved in these responses."
+      }
+    ]
+  },
+  {
+    "dataset": "scifact",
+    "seed": 42,
+    "query_id": "431",
+    "query": "FoxO3a activation in neuronal death is mediated by reactive oxygen species (ROS).",
+    "gold_relevant_documents": [
+      "28937856"
+    ],
+    "strategy": "semantic",
+    "size": 256,
+    "retrieval_mode": "contextual_bm25",
+    "retrieved_top_10": [
+      "20659283",
+      "12670680",
+      "40987633",
+      "14060030",
+      "2039912",
+      "32985041",
+      "13230773",
+      "25353658",
+      "3930020",
+      "4999633"
+    ],
+    "best_matching_chunks": [
+      {
+        "document_id": "20659283",
+        "score": 1.0,
+        "chunk_id": "20659283-semantic-6",
+        "text": "the results presented herein demonstrate that there is a species - specific difference in the activation of pxr by isoflavones and equol."
+      },
+      {
+        "document_id": "12670680",
+        "score": 0.7926716338643116,
+        "chunk_id": "12670680-semantic-0",
+        "text": "basophils and the t helper 2 environment can promote the development of lupus nephritis in systemic lupus erythematosus ( sle ), self - reactive antibodies can target the kidney ( lupus nephritis ), leading to functional failure and possible mortality. we report that activation of basophils by autoreactive ige causes their homing to lymph nodes, promoting t helper type 2 ( t ( h ) 2 ) cell differentiation and enhancing the production of self - reactive antibodies that cause lupus - like nephritis in mice lacking the src family protein tyrosine kinase lyn ( lyn ( - / - ) mice ). individuals with sle also have elevated serum ige, self - reactive iges and activated basophils that express cd62 ligand ( cd62l ) and the major histocompatibility complex ( mhc ) class ii molecule human leukocyte antigen - dr ( hla - dr ), parameters that are associated with increased disease activity and active lupus nephritis. basophils were also present in the lymph nodes and spleen of subjects with sle. thus, in lyn"
+      },
+      {
+        "document_id": "40987633",
+        "score": 0.7456522225219964,
+        "chunk_id": "40987633-semantic-4",
+        "text": "chmp2bintron5 results in a c - terminus truncation removing an important vps4 binding site as well as eliminating the normal autoinhibitory resting state of chmp2b. chmp2b is expressed in most cell types but seems to be especially vital for proper neuronal function. chmp2bintron5 - mediated phenotypes include misregulation of transmembrane receptors, accumulation of multilamellar structures, abnormal lysosomal morphology, down regulation of a brain - specific micro rna ( mirna - 124 ), abnormal dendritic spine morphology, decrease in dendritic arborization, and cell death. currently, transgenic - fly, - mouse, and - human cell lines are being used to better understand the diverse phenotypes and develop therapeutic approaches for the chmp2bintron5 - induced ftd - 3."
+      },
+      {
+        "document_id": "14060030",
+        "score": 0.7136355474665782,
+        "chunk_id": "14060030-semantic-3",
+        "text": "on the basis of this paradigm, cardiomyocytes undergo cellular hypertrophy1, 2 but cannot be replaced either by entry into the cell cycle of a subpopulation of nonterminally differentiated myocytes or by activation of a pool of primitive cells that become committed to the myocyte lineage."
+      },
+      {
+        "document_id": "2039912",
+        "score": 0.6874904942567387,
+        "chunk_id": "2039912-semantic-0",
+        "text": "the origin and neuronal function of in vivo nonsynaptic glutamate. basal extracellular glutamate sampled in vivo is present in micromolar concentrations in the extracellular space outside the synaptic cleft, and neither the origin nor the function of this glutamate is known."
+      },
+      {
+        "document_id": "32985041",
+        "score": 0.6776684326621811,
+        "chunk_id": "32985041-semantic-0",
+        "text": "protein s - nitrosylation : a physiological signal for neuronal nitric oxide nitric oxide ( no ) has been linked to numerous physiological and pathophysiological events that are not readily explained by the well established effects of no on soluble guanylyl cyclase. exogenous no s - nitrosylates cysteine residues in proteins, but whether this is an important function of endogenous no is unclear. here, using a new proteomic approach, we identify a population of proteins that are endogenously s - nitrosylated, and demonstrate the loss of this modification in mice harbouring a genomic deletion of neuronal no synthase ( nnos ). targets of no include metabolic, structural and signalling proteins that may be effectors for neuronally generated no. these findings establish protein s - nitrosylation as a physiological signalling mechanism for nnos."
+      },
+      {
+        "document_id": "13230773",
+        "score": 0.6270621951998145,
+        "chunk_id": "13230773-semantic-5",
+        "text": "maximal oxygen consumption ( vo2max ) was estimated by measuring the heart rate response to reference levels of submaximal work."
+      },
+      {
+        "document_id": "25353658",
+        "score": 0.5939499684395073,
+        "chunk_id": "25353658-semantic-0",
+        "text": "germinal center t follicular helper cell il - 4 production is dependent on signaling lymphocytic activation molecule receptor ( cd150 ). cd4 t cell help is critical for the generation and maintenance of germinal centers ( gcs ), and t follicular helper ( t ( fh ) ) cells are the cd4 t cell subset required for this process. signaling lymphocytic activation molecule ( slam ) - associated protein ( sap [ sh2d1a ] ) expression in cd4 t cells is essential for gc development."
+      },
+      {
+        "document_id": "3930020",
+        "score": 0.5853414600347417,
+        "chunk_id": "3930020-semantic-2",
+        "text": "the inhibitory effect is mediated by soluble lipophilic factors released by the parasites and not by host - derived antiinflammatory cytokines, such as interleukin - 10."
+      },
+      {
+        "document_id": "4999633",
+        "score": 0.5649331872622492,
+        "chunk_id": "4999633-semantic-9",
+        "text": "e2 - mediated activation of adenylyl cyclase and downstream participation of protein kinase a were shown to be involved in these responses."
+      }
+    ]
+  }
+]

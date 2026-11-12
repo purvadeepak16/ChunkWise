@@ -1,0 +1,7 @@
+dataset,seed,strategy,size,retrieval_modes,documents,queries,chunks,indexing_seconds,query_seconds
+scifact,42,fixed,128,"plain,contextual_bm25,contextual_rerank,contextual_llm,contextual_embedding",100,5,331,452.5106534999977,1.3091931000017212
+scifact,42,fixed,256,"plain,contextual_bm25,contextual_rerank,contextual_llm,contextual_embedding",100,5,188,203.27606869999727,1.1587197999979253
+scifact,42,recursive,128,"plain,contextual_bm25,contextual_rerank,contextual_llm,contextual_embedding",100,5,371,323.66134500000044,1.5487648000016634
+scifact,42,recursive,256,"plain,contextual_bm25,contextual_rerank,contextual_llm,contextual_embedding",100,5,195,163.96631259999776,1.6846927000005962
+scifact,42,semantic,128,"plain,contextual_bm25,contextual_rerank,contextual_llm,contextual_embedding",100,5,702,736.2097799000003,2.3793528999995033
+scifact,42,semantic,256,"plain,contextual_bm25,contextual_rerank,contextual_llm,contextual_embedding",100,5,648,6480.891198400001,0.6184304000016709
